@@ -1,0 +1,38 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+h1 {
+  color: #0366d6;
+  font-size: 2em; 
+}
+.main-content {
+  margin: 0 auto;
+  width: 600px;
+}
+.status-content {
+  font-size: 18px;
+}
+#status {
+  text-transform: uppercase;
+  padding: 5px 8px;
+  border: dotted 1px #f4f4f4;
+  margin-left: 5px; 
+  color: #fff;
+}
+.online {
+  background-color: green;
+}
+.offline {
+  background-color: red;
+}
+
+.footer-version {
+  font-weight: 600;
+  font-style: italic;
+  margin: 30px auto;
+  width: 600px;
+}
