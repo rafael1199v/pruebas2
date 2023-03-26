@@ -23,3 +23,21 @@
 9. git add *
 10. git commit -m "comentario"
 11. git push -u origin master (o la rama en al que estes trabajando)
+
+# Otros comandos
+
+1. git reset .
+2. git log
+3. git commit --amend
+4. git checkout --.
+5. git branch rama1
+6. git checkout -b rama1
+7. git brach -d rama1
+8. git push
+9. git commit -am
+
+# Si necesitas mas ayuda
+
+[Alt text](https://edteam-media.s3.amazonaws.com/community/original/fc43b465-dbfb-465e-9705-b38d230452fc.jpg)
+
+[Alt text](https://scontent.flpb3-2.fna.fbcdn.net/v/t1.6435-9/116473561_3094841473904742_8900868126690351666_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=9267fe&_nc_ohc=HY23oTMudYIAX-B0rqS&_nc_ht=scontent.flpb3-2.fna&oh=00_AfAi0J-wlK6ZiG3RvUwGSI5s_JZOB5m78QrEGKx7-D87pg&oe=6447FA86)
